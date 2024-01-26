@@ -1,6 +1,5 @@
 What is Apache Server?
 Apache Server is an open source web server to configure and host the web applications online and locally as well using localhost as the medium.
-
 It requires a lot of configuration when one wishes to set up an Apache server on the workstation.
 
 To reduce this over, Docker has introduced the concept of Dockerfile to build and set up configurations easily.
